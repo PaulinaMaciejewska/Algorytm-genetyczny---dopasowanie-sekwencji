@@ -1,0 +1,30 @@
+C:\Users\User\source\repos\ProjektZP\ProjektZP\bin\Debug\ProjektZP.exe.config
+C:\Users\User\source\repos\ProjektZP\ProjektZP\bin\Debug\ProjektZP.exe
+C:\Users\User\source\repos\ProjektZP\ProjektZP\bin\Debug\ProjektZP.pdb
+C:\Users\User\source\repos\ProjektZP\ProjektZP\obj\Debug\ProjektZP.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ProjektZP\ProjektZP\obj\Debug\ProjektZP.Form1.resources
+C:\Users\User\source\repos\ProjektZP\ProjektZP\obj\Debug\ProjektZP.Properties.Resources.resources
+C:\Users\User\source\repos\ProjektZP\ProjektZP\obj\Debug\ProjektZP.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ProjektZP\ProjektZP\obj\Debug\ProjektZP.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ProjektZP\ProjektZP\obj\Debug\ProjektZP.exe
+C:\Users\User\source\repos\ProjektZP\ProjektZP\obj\Debug\ProjektZP.pdb
+C:\Users\User\Desktop\BIOINFORMATYKA\ZAAWANSOWANE PROGRAMOWANIE\PROJEKT\ProjektZP\ProjektZP\bin\Debug\ProjektZP.exe.config
+C:\Users\User\Desktop\BIOINFORMATYKA\ZAAWANSOWANE PROGRAMOWANIE\PROJEKT\ProjektZP\ProjektZP\bin\Debug\ProjektZP.exe
+C:\Users\User\Desktop\BIOINFORMATYKA\ZAAWANSOWANE PROGRAMOWANIE\PROJEKT\ProjektZP\ProjektZP\bin\Debug\ProjektZP.pdb
+C:\Users\User\Desktop\BIOINFORMATYKA\ZAAWANSOWANE PROGRAMOWANIE\PROJEKT\ProjektZP\ProjektZP\obj\Debug\ProjektZP.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\BIOINFORMATYKA\ZAAWANSOWANE PROGRAMOWANIE\PROJEKT\ProjektZP\ProjektZP\obj\Debug\ProjektZP.Form1.resources
+C:\Users\User\Desktop\BIOINFORMATYKA\ZAAWANSOWANE PROGRAMOWANIE\PROJEKT\ProjektZP\ProjektZP\obj\Debug\ProjektZP.Properties.Resources.resources
+C:\Users\User\Desktop\BIOINFORMATYKA\ZAAWANSOWANE PROGRAMOWANIE\PROJEKT\ProjektZP\ProjektZP\obj\Debug\ProjektZP.csproj.GenerateResource.cache
+C:\Users\User\Desktop\BIOINFORMATYKA\ZAAWANSOWANE PROGRAMOWANIE\PROJEKT\ProjektZP\ProjektZP\obj\Debug\ProjektZP.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\BIOINFORMATYKA\ZAAWANSOWANE PROGRAMOWANIE\PROJEKT\ProjektZP\ProjektZP\obj\Debug\ProjektZP.exe
+C:\Users\User\Desktop\BIOINFORMATYKA\ZAAWANSOWANE PROGRAMOWANIE\PROJEKT\ProjektZP\ProjektZP\obj\Debug\ProjektZP.pdb
+C:\Users\User\Desktop\ProjektZP\ProjektZP\bin\Debug\ProjektZP.exe.config
+C:\Users\User\Desktop\ProjektZP\ProjektZP\bin\Debug\ProjektZP.exe
+C:\Users\User\Desktop\ProjektZP\ProjektZP\bin\Debug\ProjektZP.pdb
+C:\Users\User\Desktop\ProjektZP\ProjektZP\obj\Debug\ProjektZP.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ProjektZP\ProjektZP\obj\Debug\ProjektZP.Form1.resources
+C:\Users\User\Desktop\ProjektZP\ProjektZP\obj\Debug\ProjektZP.Properties.Resources.resources
+C:\Users\User\Desktop\ProjektZP\ProjektZP\obj\Debug\ProjektZP.csproj.GenerateResource.cache
+C:\Users\User\Desktop\ProjektZP\ProjektZP\obj\Debug\ProjektZP.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ProjektZP\ProjektZP\obj\Debug\ProjektZP.exe
+C:\Users\User\Desktop\ProjektZP\ProjektZP\obj\Debug\ProjektZP.pdb
